@@ -1,0 +1,29 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 150px;
+  background-image: linear-gradient(to bottom right, red, yellow);
+}
+
+h1 {
+  font-weight: lighter;
+  font-size: 50px;
+  letter-spacing: 3px;
+}
+
+.inputsection {
+  margin: 50px 0px;
+  width: 400px;
+}
+
+.yesyes {
+  width: inherit;
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  margin-bottom: 10px;
+}
